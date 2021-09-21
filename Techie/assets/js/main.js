@@ -1,5 +1,5 @@
 /**
-* Template Name: Techie - v4.3.0
+* Template Name: Techie - v4.5.0
 * Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
